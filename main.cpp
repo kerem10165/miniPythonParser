@@ -23,6 +23,9 @@ int main(int argc , char** argv)
         {
             std::cout << "File doesn't found\n\n";
         }
+
+        else
+            std::cout << "\n";
     }
 
 }
